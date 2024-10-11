@@ -4,4 +4,4 @@ Code from tutorial :
 
 2.  https://mattsegal.dev/django-with-pytest-on-github-actions.html
 
-![PyPI - Versions from Framework Classifiers](https://img.shields.io/pypi/frameworkversions/django/:packageName)
+![PyPI - Django](https://img.shields.io/pypi/frameworkversions/django/:packageName)
