@@ -99,3 +99,6 @@ class TaskDetail(generics.GenericAPIView):
         task.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
 
+
+
+
